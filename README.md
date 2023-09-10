@@ -212,7 +212,7 @@ need to complete three steps:
 
 1. _staging_ the work so it's ready to save
 2. _committing_ the work to actually save it
-3. _pushing_ the work up to GitHub
+3. _pushing_ the work up to GitHubgi
 
 **Step 1** To stage the work, type the following, then press `<Enter>`:
 
